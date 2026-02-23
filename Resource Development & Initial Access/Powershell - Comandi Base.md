@@ -23,3 +23,5 @@ Solo quelli eseguiti realmente.
 5. Get-Command -Name *Firewall*
 	   come grep su linux
 ```
+
+

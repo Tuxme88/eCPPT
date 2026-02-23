@@ -10,5 +10,8 @@
 ## Comandi usati
 Solo quelli eseguiti realmente.
 
+```
 1. Get-Modules
+   
 2. Import-Module .\module.psm1
+```
